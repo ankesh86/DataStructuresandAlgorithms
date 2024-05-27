@@ -24,3 +24,16 @@ Merge algorithm implementation without sentinels.
 Recursion, time complexity analysis of recursive functions.
 Algorithm analysis, time complexity derivation using asymptotic notation.
 Recurrence relations, Recursive Insertion Sort, and asymptotic analysis.
+
+Homework 3
+Ques Context:
+
+Implementation of hash table using open addressing with linear probing.
+Analysis of hash table performance for different table sizes and data distributions.
+Implementation of hash table using chaining for storing dates.
+
+Concept used:
+
+Hash functions, open addressing, linear probing, collision handling.
+Hash table analysis, performance metrics (maximum, minimum, mean, variance).
+Chaining technique for hash table implementation, dynamic memory allocation.
