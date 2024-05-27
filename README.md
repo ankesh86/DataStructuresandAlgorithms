@@ -54,3 +54,19 @@ Performance evaluation metrics (movements and comparisons).
 
 Document or assignment summary for readme file:
 The document presents the implementation and analysis of various sorting algorithms, including Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Heap Sort, and Quick Sort. It evaluates the performance of these algorithms under different input scenarios: best case (already sorted), average case (random), and worst case (reverse sorted). The analysis is based on the number of movements and comparisons required by each algorithm for sorting arrays of 2000 integers. The results are presented in tabular and graphical formats, allowing for a comparative analysis of the algorithms' efficiency and time complexities.
+
+Homework 5
+Ques Context:
+
+Analysis of Binary Search Tree (BST) properties and operations.
+Analysis of B-Tree properties and characteristics.
+Implementation of graph algorithms (DFS, Kruskal's, Prim's, Dijkstra's, and Bellman-Ford's) for connected and disconnected graphs.
+
+Concept used:
+
+BST insertions, deletions, balancing, and height calculations.
+B-Tree degree, height, and key capacity calculations.
+Graph representations (adjacency matrix), connectivity checks, minimum spanning tree algorithms, and shortest path algorithms.
+
+Document or assignment summary for readme file:
+The document covers the analysis and implementation of various data structures and algorithms related to trees and graphs. It includes questions and solutions for Binary Search Tree (BST) operations, such as insertions, deletions, and balancing. Additionally, it analyzes the properties and characteristics of B-Trees, including calculations for maximum height, key capacity, and degree. Furthermore, the document implements graph algorithms like Depth-First Search (DFS), Kruskal's algorithm, Prim's algorithm, Dijkstra's algorithm, and Bellman-Ford's algorithm for connected and disconnected graphs. The implementations involve graph representation using adjacency matrices, connectivity checks, minimum spanning tree calculations, and shortest path computations.
