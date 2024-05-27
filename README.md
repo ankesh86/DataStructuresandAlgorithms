@@ -37,3 +37,20 @@ Concept used:
 Hash functions, open addressing, linear probing, collision handling.
 Hash table analysis, performance metrics (maximum, minimum, mean, variance).
 Chaining technique for hash table implementation, dynamic memory allocation.
+
+
+Homework 4
+Ques Context:
+
+Implementation and analysis of various sorting algorithms (Selection, Bubble, Insertion, Merge, Heap, and Quick Sort).
+Evaluation of sorting algorithms with different input scenarios (best, average, and worst cases).
+Comparison of sorting algorithms based on movements and comparisons.
+
+Concept used:
+
+Sorting algorithms (Selection, Bubble, Insertion, Merge, Heap, and Quick Sort) implementation.
+Time complexity analysis, best/average/worst case scenarios.
+Performance evaluation metrics (movements and comparisons).
+
+Document or assignment summary for readme file:
+The document presents the implementation and analysis of various sorting algorithms, including Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Heap Sort, and Quick Sort. It evaluates the performance of these algorithms under different input scenarios: best case (already sorted), average case (random), and worst case (reverse sorted). The analysis is based on the number of movements and comparisons required by each algorithm for sorting arrays of 2000 integers. The results are presented in tabular and graphical formats, allowing for a comparative analysis of the algorithms' efficiency and time complexities.
